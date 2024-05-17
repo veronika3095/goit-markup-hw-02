@@ -85,13 +85,11 @@ a {
     cursor: pointer;
 }
 
-.button:hover {
+.button:hover ,
+.button:focus {
 background-color: #404bbf;
 }
 
-.button:focus {
-    background-color: #404bbf;
-}
 
 h2 {
     font-family: "Roboto", sans-serif;
