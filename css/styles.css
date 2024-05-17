@@ -155,7 +155,7 @@ h2 {
     background-color: #FFFFFF;
 }
 
-.title-h3 {
+.title-mark {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -163,6 +163,7 @@ h2 {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    background-color: #FFFFFF;
 }
 
 .text-p {
@@ -173,9 +174,10 @@ h2 {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    background-color: #FFFFFF;
 }
 
-.h2-class-our {
+.title-class-our {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -191,7 +193,7 @@ h2 {
     background: url("path_to_image");
 }
 
-.title-h3-title {
+.title-app-title {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
