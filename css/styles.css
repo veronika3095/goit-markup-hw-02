@@ -22,7 +22,11 @@ a {
     text-transform: uppercase;
     color: #4d5ae5;
 
+}
 
+.title-span-web:hover,
+.title-span-web:focus {
+    color: #404bbf;
 }
 
 .span {
@@ -87,7 +91,7 @@ a {
 
 .button:hover ,
 .button:focus {
-color: #404bbf;
+background-color: #404bbf;
 }
 
 
