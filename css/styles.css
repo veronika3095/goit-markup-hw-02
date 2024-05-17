@@ -60,8 +60,11 @@ color: #404bbf;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
+}
 
-
+.address:hover,
+.address:focus {
+    color: #404bbf;
 }
 
 .darc-bg {
