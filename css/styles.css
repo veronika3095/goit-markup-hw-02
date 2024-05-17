@@ -36,10 +36,6 @@ a {
 
 }
 
-.span:hover,
-.span:focus {
-    background-color: #404bbf;
-}
 
 .nav-link {
     font-family: "Roboto", sans-serif;
@@ -49,6 +45,11 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
     
+}
+
+.nav-link:hover,
+.nav-link:focus {
+color: #404bbf;
 }
 
 .address {
