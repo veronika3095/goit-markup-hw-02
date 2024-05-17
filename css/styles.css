@@ -24,10 +24,6 @@ a {
 
 }
 
-.title-span-web:hover,
-.title-span-web:focus {
-    background-color: #404bbf;
-}
 
 .span {
     font-family: "Raleway", sans-serif;
@@ -38,6 +34,11 @@ a {
     text-transform: uppercase;
     color: #2e2f42;
 
+}
+
+.span:hover,
+.span:focus {
+    background-color: #404bbf;
 }
 
 .nav-link {
