@@ -26,7 +26,7 @@ a {
 
 .title-span-web:hover,
 .title-span-web:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .span {
