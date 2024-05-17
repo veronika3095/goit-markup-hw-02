@@ -129,9 +129,6 @@ h2 {
     
 }
 
-.link {
-    background: #fff;
-}
 
 .section {
     background-color: #F4F4FD;
@@ -147,6 +144,10 @@ h2 {
     color: #2e2f42;
     background-color: #FFFFFF;
     text-transform: capitalize;
+}
+
+.link {
+background-color: #FFFFFF;
 }
 
 .images {
